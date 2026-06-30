@@ -48,10 +48,7 @@
 #     new.append(i[::-1])
 # print(new)
 
-n1=3
-n2=5
-n3=7
-if n1>n2 and n1>n2:
+
     
 
     
